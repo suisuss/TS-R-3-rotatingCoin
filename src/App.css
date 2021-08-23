@@ -16,8 +16,6 @@ canvas {
   font-style: normal;
 }
 
-
-
 main {
   width: 100vw;
   color: white;
@@ -40,12 +38,6 @@ blockquote {
   font-weight: 700;
   font-style: normal;
   color: white;
-}
-
-canvas {
-  position: fixed;
-  top: 0;
-  left: 0;
 }
 
 header {
